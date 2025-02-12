@@ -11,4 +11,5 @@ A simple web3 escrow that allows to hold for a maker and a taker.
 ## How to use
 
 1. Run the program
-2. Call the `create_escrow` function with the maker and taker addresses and the amount of SOL to hold.
+2. Call the `make` function with the maker
+3. Call the `take` function with the taker
