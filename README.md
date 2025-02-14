@@ -32,7 +32,7 @@ Simple Anchor Vault to stow away and manage $SOL on Solana.
 - Flexible, programmable access control
 - Integration with Solana's ecosystem
 
-[learn more](./1.Vault/README.md)
+[learn more](./1.Vault/Readme.md)
 
 [comment]: <> (Extend Catistics)
 
@@ -50,7 +50,7 @@ Simple Anchor Escrow service to make available for swaps one asset for another o
 - Decentralized, trustless transactions
 - Secure, on-chain escrow mechanism
 
-[learn more](./2.Escrow/README.md)
+[learn more](./2.Escrow/Readme.md)
 
 [comment]: <> (Extend Catistics)
 
@@ -67,7 +67,7 @@ A decentralized marketplace built on Solana, supporting a variety of spl tokens.
 - Decentralized, trustless trading
 - Support for various digital assets
 
-[learn more](./3.Marketplace/README.md)
+  [learn more](./3.Marketplace/Readme.md)
 
 [comment]: <> (Extend Catistics)
 
@@ -83,7 +83,7 @@ A simple Anchor AMM market maker to provide a way provide liquidity for asset pa
 
 - Decentralized, trustless trading
 
-[learn more](./3.Marketplace/README.md)
+  [learn more](./3.Marketplace/Readme.md)
 
 [comment]: <> (Extend Catistics)
 
