@@ -1,6 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/scozzi.svg?style=social&label=Follow)](https://github.com/scozzi?tab=followers)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ScozziAxie)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCaOQstxSGKT-W1xYa9PuVKQ)
 <br/>
 
 ![Scozzi Banner](./scozzi-banner-cropped.png)
