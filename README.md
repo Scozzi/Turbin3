@@ -104,7 +104,6 @@ My projects are licensed under the [MIT License](link).
 <div align="right">
     <!-- <img width="100" src="https://www.poweredbysolana.com/stacked-color.svg" alt="powered by solana" title="Solana"/> -->
     <a href="https://explorer.solana.com/address/jP82x1ZmtDkSim1a3xjP1bLy23tuxf4K6mWt8Yk5Js5"><img style="margin-right: 15px;" height="45" src="https://cdn-icons-png.flaticon.com/128/15437/15437394.png" alt="tip me" title="tip"/></a>
-    <a href="https://solana.com/developers/ecosystem/solana-community/solana-tip-bot"><img width="100" src="https://www.poweredbysolana.com/ils-red.svg" alt="love solana" title="Solana"/></a>
 </div>
 
 <div align="center">
